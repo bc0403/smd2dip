@@ -1,0 +1,27 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "SON-6C to dip, for S-5420"
+Date "2020-08-25"
+Rev "0.1"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L hjin:S-5420 U?
+U 1 1 5F449EB8
+P 4900 3550
+F 0 "U?" H 4900 4115 50  0000 C CNN
+F 1 "S-5420" H 4900 4024 50  0000 C CNN
+F 2 "" H 4900 3550 50  0001 C CNN
+F 3 "" H 4900 3550 50  0001 C CNN
+	1    4900 3550
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
